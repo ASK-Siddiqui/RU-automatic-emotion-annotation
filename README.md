@@ -1,6 +1,6 @@
 # RU-automatic-emotion-annotation
 %This  work details the automatic creation of a emotions labeled  dataset for a short Roman Urdu-English mixed text, describing the lack of specific structure or grammar rules in Roman Urdu. The development of the software consists of two phases: cleaning and automatic annotation of raw text and classification of emotion and prediction, respectively. This software simplifies the creation of new datasets applying NLP methods particularly for mixed codes of Roman Urdu and English . 
-#functionality
+# functionality
 This software makes the process of developing a new dataset hassle-free, especially for mixed RU and English wordings.
 % Getting input CSV and perform cleaning and annotation then returns annoted CSV(Behavemo.py)
 Cleaning of data(cleanfile.py):
