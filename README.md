@@ -4,7 +4,9 @@
 This software makes the process of developing a new dataset hassle-free, especially for mixed RU and English wordings.
 
 % Getting input CSV and perform cleaning and annotation then returns annoted CSV(Behavemo.py)
+
 Cleaning of data(cleanfile.py):
+
 Behavemo.py calls cleanfile.py to remove tags, web addresses,Urdu useless words and other unncessarydata such as especial characters.
 
 Annotation of clean data (labeledlexp4.py):
